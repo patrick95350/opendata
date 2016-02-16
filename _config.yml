@@ -13,11 +13,11 @@ paginate:            5
 
 # About/contact
 author:
-  name:              California Health Data Project
-  url:               https://twitter.com/@CAHealthData
-  email:             health@codeforsacramento.org
+  name:              California State Library / California Research Bureau
+  url:               http://library.ca.gov
+  email:             crb@library.ca.gov
 
 # Custom vars
 version:             1.0
 github:
-  repo:           https://github.com/CAHealthData/toolkit
+  repo:           https://github.com/patrick95350/opendata
