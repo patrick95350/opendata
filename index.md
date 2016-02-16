@@ -1,8 +1,6 @@
 ---
 layout: page
-nav_title: I. Introduction
-title: I. Introduction
-permalink: /01-introduction/
+title: Home
 ---
 
 ## Introduction
