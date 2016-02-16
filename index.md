@@ -33,11 +33,11 @@ Publishing data for transparency itself is a laudable goal; however, government 
 ---|---
 California Health and Human Services | [https://chhs.data.ca.gov]
 State Controller's Office | 
-  By the Numbers | [https://bythenumbers.sco.ca.gov]
-  Public Pay | [http://www.publicpay.ca.gov]
-  Track Prop 30 | [http://trackprop30.ca.gov]
+* By the Numbers | [https://bythenumbers.sco.ca.gov]
+* Public Pay | [http://www.publicpay.ca.gov]
+* Track Prop 30 | [http://trackprop30.ca.gov]
 Office of the Treasurer | 
-  Debtwatch | [http://debtwatch.treasurer.ca.gov]
+* Debtwatch | [http://debtwatch.treasurer.ca.gov]
 CA GeoPortal | [http://portal.gis.ca.gov]
 
 <!-- Pagination -->
