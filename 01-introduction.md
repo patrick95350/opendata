@@ -44,6 +44,6 @@ CA GeoPortal | [http://portal.gis.ca.gov]
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/02-use-cases">Next &raquo;</a>
+  <a class="pagination-item older">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/part-1-open-data-in-ca">Next &raquo;</a>
 </div>
