@@ -5,5 +5,5 @@
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="/index">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/part-1-open-data-in-ca">Next &raquo;</a>
+  <a class="pagination-item newer" href="/02-open-data-sites">Next &raquo;</a>
 </div>
