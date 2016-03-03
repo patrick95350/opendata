@@ -40,14 +40,15 @@ State Controller's Office |
 * By the Numbers | [https://bythenumbers.sco.ca.gov]
 * Public Pay | [http://www.publicpay.ca.gov]
 * Track Prop 30 | [http://trackprop30.ca.gov]
-Office of the Treasurer | 
-* Debtwatch | [http://debtwatch.treasurer.ca.gov]
+
 
 #### Other CA Open Data Sites
 
 *Organization* | *Portal*
 ---|---
 CA GeoPortal | [http://portal.gis.ca.gov]
+Office of the Treasurer | 
+* Debtwatch | [http://debtwatch.treasurer.ca.gov]
 
 <!-- Pagination -->
 <div class="pagination">
