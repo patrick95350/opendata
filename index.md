@@ -31,6 +31,8 @@ Publishing data for transparency itself is a laudable goal; however, government 
 
 ### Open Data Sites
 
+#### Our Cases
+
 *Organization* | *Portal*
 ---|---
 California Health and Human Services | [https://chhs.data.ca.gov]
@@ -40,6 +42,11 @@ State Controller's Office |
 * Track Prop 30 | [http://trackprop30.ca.gov]
 Office of the Treasurer | 
 * Debtwatch | [http://debtwatch.treasurer.ca.gov]
+
+#### Other CA Open Data Sites
+
+*Organization* | *Portal*
+---|---
 CA GeoPortal | [http://portal.gis.ca.gov]
 
 <!-- Pagination -->
