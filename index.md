@@ -5,11 +5,13 @@ title: Home
 
 ## Introduction
 
-Purpose of this effort: lay out a path for California dept and agencies who want to begin publishing their data in a more open format
+### Purpose
 
-Doing this by sharing the experiences and lessons learned from the two “biggest” implementations of open data in state government. Providing a list of who is doing open data. 
+The purpose of this reference book is to lay out a path for California agencies and departments that want to begin publishing their data in a more open and accessible format. By sharing the experiences and lessons learned from the efforts of two early-adopters—the State Controllers Office and The California Health and Human Services Agency—others will have a better idea of how to achieve their own goals and priorities for their open data projects.
 
-Reviewing key issues surrounding the release of open data, including: establishing governance team, regulations and policies departments need to know, ensuring privacy when releasing data
+This work is intended to act as a resource, reviewing the key issues surrounding the release of open data, such as guidance on establishing a governance team, a brief overview of key regulations and policies departments need to know, with special attention to balancing privacy and confidentiaity with the need for openness and transparency.
+
+### Open Data Definition
 
 When trying to define open data, it helps to think about government data as existing on a spectrum. The simple act of publishing data can help inform the public about the conduct of public business. For this goal, it’s is only needed to publish the data alongside necessary narrative to provide context so the public can understand what the data says. It is not necessary, however, to include the level of detail or additional information for the public to use the data for further purpose. For this reason, we refer to examples on this end of the spectrum as transparency data. 
 
