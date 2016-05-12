@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Open Data in California - Open Data Sites
+nav_title: Open Data Sites
+title: Open Data Sites
+permalink: /01-Open-Data-Sites/
 ---
+
+title: California Health and Human Services Agency - Creating a Culture of Open Data
 
 ### Our Cases
 
