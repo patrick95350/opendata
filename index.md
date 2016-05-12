@@ -61,5 +61,5 @@ CA Employment Development Department | [http://www.labormarketinfo.edd.ca.gov/](
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older">&nbsp;</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/01-part-1-open-data-in-ca">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Open-Data-Sites">Next &raquo;</a>
 </div>
