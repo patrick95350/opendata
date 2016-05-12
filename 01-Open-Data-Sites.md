@@ -3,7 +3,7 @@ layout: page
 title: Open Data in California - Open Data Sites
 ---
 
-#### Our Cases
+### Our Cases
 
 *Organization* | *Portal* | *Launched*
 ---|---|---
@@ -15,7 +15,7 @@ State Controller's Office |
 * Track Prop 30 | [http://trackprop30.ca.gov](http://trackprop30.ca.gov) |
 
 
-#### Other CA Open Data Sites
+### Other CA Open Data Sites
 
 *Organization* | *Portal* | *Launched*
 ---|---|---
@@ -30,7 +30,7 @@ CA Department of General Services | [http://www.green.ca.gov/](http://www.green.
 CA Ocean Protection Council | [https://data.cnra.ca.gov/portal/coastal/](https://data.cnra.ca.gov/portal/coastal/)
 CA Employment Development Department | [http://www.labormarketinfo.edd.ca.gov/](http://www.labormarketinfo.edd.ca.gov/)
 
-#### Coming Soon
+### Coming Soon
 ???
 
 
