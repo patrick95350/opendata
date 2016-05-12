@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Home
+title: Open Data in California
 ---
-
-## Introduction
-
-### Purpose
 
 The purpose of this reference book is to lay out a path for California agencies and departments that want to begin publishing their data in a more open and accessible format. By sharing the experiences and lessons learned from the efforts of two early-adopters—the State Controllers Office and The California Health and Human Services Agency—others will have a better idea of how to achieve their own goals and priorities for their open data projects.
 
