@@ -30,8 +30,8 @@ Open data does not have a one-size-fits-all definition. As Agencies consider pub
 
 #### Our Cases
 
-*Organization* | *Portal*
----|---
+*Organization* | *Portal* | *Launched*
+---|---|---
 California Health and Human Services | [https://chhs.data.ca.gov](https://chhs.data.ca.gov) | 11/3/2014
 * CA Department of Public Health | [https://cdph.data.ca.gov/](https://cdph.data.ca.gov/) | 8/8/2014
 State Controller's Office | 
