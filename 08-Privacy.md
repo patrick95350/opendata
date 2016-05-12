@@ -37,7 +37,7 @@ Whatever methods of disclosure limitation an organization chooses, it is importa
 
 The field of disclosure limitation is likewise evolving. One area of rapid change in California and across the nation is the emergence of photography and video created by new equipment such as traffic cameras, drones and body cameras. All three have been put into use by various state agencies as they adopt new technology to fulfill their mission. The use of inexpensive but high quality photographic and video recording equipment by governments has resulted in a dramatic increase in the volume of such data held by agencies. Determining how to hold, manage and publish such data is an ongoing discussion within government and it is likely to take time before a settled solution emerges.
 
-###Third Party Vendors
+### Third Party Vendors
 
 If agencies store sensitive data off-site with third party vendors, it is important to consider the terms under which data is shared:
 
