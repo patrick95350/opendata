@@ -44,12 +44,19 @@ State Controller's Office |
 
 *Organization* | *Portal* | *Launched*
 ---|---|---
-CA GeoPortal | [http://portal.gis.ca.gov](http://portal.gis.ca.gov) | 
+CA Department of Technology | |
+* CA GeoPortal | [http://portal.gis.ca.gov](http://portal.gis.ca.gov) | 
 Office of the Treasurer | |
 * Debtwatch | [http://debtwatch.treasurer.ca.gov](http://debtwatch.treasurer.ca.gov) | 
 CA Secretary of State | [http://powersearch.sos.ca.gov/](http://powersearch.sos.ca.gov/) | 9/2/2015
 CA Department of Justice | [http://openjustice.doj.ca.gov/index.html](http://openjustice.doj.ca.gov/index.html) | 9/2/2015
+CA Board of Equalization | [http://www.boe.ca.gov/dataportal/](http://www.boe.ca.gov/dataportal/) | 5/1/204
+CA Department of General Services | [http://www.green.ca.gov/](http://www.green.ca.gov/) | 10/21/2015
+CA Ocean Protection Council | [https://data.cnra.ca.gov/portal/coastal/](https://data.cnra.ca.gov/portal/coastal/)
+CA Employment Development Department | [http://www.labormarketinfo.edd.ca.gov/](http://www.labormarketinfo.edd.ca.gov/)
 
+#### Coming Soon
+???
 
 <!-- Pagination -->
 <div class="pagination">
