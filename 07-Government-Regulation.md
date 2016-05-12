@@ -2,7 +2,6 @@
 layout: page
 title: Government Regulation
 ---
-
 No existing state law specifically defines “open data,” however, current California law does provide one reference to it in Government Code § 6253.10 (2016), which defines the published data local agencies can call “open.” The law specifies that open data must be published, among other things, in a manner that is platform independent and machine readable:
 
 >Government Code § 6253.10.
@@ -30,7 +29,7 @@ From building a platform in-house to contracting with a vendor, California agenc
 *	Contract with a small business reseller to buy, build and/or host a custom site:
   *Uses vendors listed on the Department of General Services’ California Multiple Award Schedule (CMAS)
   *Prices for services and vendors are the same as on the federal General Services Administration list
-  *Typically purchasing (or subscribing to) a ready-made solution with customization options. One way to do this is through the state’s (Software Licensing Program)[http://www.dgs.ca.gov/pd/Programs/Leveraged/SLP.aspx] . The Program allows Agencies to purchase software through existing contracts that have already been negotiated with authorized participating resellers.
+  *Typically purchasing (or subscribing to) a ready-made solution with customization options. One way to do this is through the state’s [Software Licensing Program](http://www.dgs.ca.gov/pd/Programs/Leveraged/SLP.aspx). The Program allows Agencies to purchase software through existing contracts that have already been negotiated with authorized participating resellers.
 *	Issue a competitive Request for Proposal
   *Access to largest number of potential vendors
   *Time-intensive
