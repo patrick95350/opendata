@@ -1,14 +1,14 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           none
 
 # Setup
 title:               California Open Data Reference Book
 tagline:             'Tagline'
 description:         'Description'
 url:                 http://library.ca.gov/crb/opendatarefbook
-baseurl:             'http://patrick95350.github.io/opendata'
+baseurl:             'http://patrick95350.github.io/opendata/'
 paginate:            5
 
 # About/contact
