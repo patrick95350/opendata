@@ -3,10 +3,6 @@ layout: page
 title: Open Data in California - Open Data Sites
 ---
 
-# Part I - Open Data in California
-
-### Open Data Sites
-
 #### Our Cases
 
 *Organization* | *Portal* | *Launched*
