@@ -2,7 +2,7 @@
 layout: page
 nav_title: Open Data Sites
 title: Open Data Sites
-permalink: /01-Open-Data-Sites.md/
+permalink: /opendata/01-Open-Data-Sites.md/
 ---
 
 title: California Health and Human Services Agency - Creating a Culture of Open Data
