@@ -2,7 +2,7 @@
 layout: page
 nav_title: CHSS Case Study
 title: California Health and Human Services Agency - Creating a Culture of Open Data
-permalink: /02-Case-Study-1/
+permalink: /02-Case-Study-1.md/
 ---
 
 ### Introduction
