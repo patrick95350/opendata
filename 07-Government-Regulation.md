@@ -3,14 +3,13 @@ layout: page
 title: Government Regulation
 ---
 
-State Policies on Open Data
 No existing state law specifically defines “open data,” however, current California law does provide one reference to it in Government Code § 6253.10 (2016), which defines the published data local agencies can call “open.” The law specifies that open data must be published, among other things, in a manner that is platform independent and machine readable:
-Government Code § 6253.10.   
-If a local agency, except a school district, maintains an Internet Resource, including, but not limited to, an Internet Web site, Internet Web page, or Internet Web portal, which the local agency describes or titles as "open data," and the local agency voluntarily posts a public record on that Internet Resource, the local agency shall post the public record in an open format that meets all of the following requirements:
- (a) Retrievable, downloadable, indexable, and electronically searchable by commonly used Internet search applications.
- (b) Platform independent and machine readable.
- (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.
- (d) Retains the data definitions and structure present when the data was compiled, if applicable.
+>Government Code § 6253.10.   
+>If a local agency, except a school district, maintains an Internet Resource, including, but not limited to, an Internet Web site, Internet Web page, or Internet Web portal, which the local agency describes or titles as "open data," and the local agency voluntarily posts a public record on that Internet Resource, the local agency shall post the public record in an open format that meets all of the following requirements:
+> (a) Retrievable, downloadable, indexable, and electronically searchable by commonly used Internet search applications.
+> (b) Platform independent and machine readable.
+> (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.
+> (d) Retains the data definitions and structure present when the data was compiled, if applicable.
 A number of existing policies and laws that were written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See XX privacy section for more information. In addition, agencies and departments will need to consider how they build-out the technology for their open data projects.  
 ### Procurement 
 From building a platform in-house to contracting with a vendor, California agencies and departments have used a variety of procurement strategies. Below are some of their methods:
@@ -21,7 +20,7 @@ From building a platform in-house to contracting with a vendor, California agenc
 *	Contract with a small business reseller to buy, build and/or host a custom site:
   *Uses vendors listed on the Department of General Services’ California Multiple Award Schedule (CMAS)
   *Prices for services and vendors are the same as on the federal General Services Administration list
-  *Typically purchasing (or subscribing to) a ready-made solution with customization options. One way to do this is through the state’s Software Licensing Program [Link: http://www.dgs.ca.gov/pd/Programs/Leveraged/SLP.aspx] . The Program allows Agencies to purchase software through existing contracts that have already been negotiated with authorized participating resellers.
+  *Typically purchasing (or subscribing to) a ready-made solution with customization options. One way to do this is through the state’s (Software Licensing Program)[http://www.dgs.ca.gov/pd/Programs/Leveraged/SLP.aspx] . The Program allows Agencies to purchase software through existing contracts that have already been negotiated with authorized participating resellers.
 *	Issue a competitive Request for Proposal
   *Access to largest number of potential vendors
   *Time-intensive
