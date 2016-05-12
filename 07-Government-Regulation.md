@@ -23,11 +23,11 @@ A number of existing policies and laws that were written for general publication
 
 From building a platform in-house to contracting with a vendor, California agencies and departments have used a variety of procurement strategies. Below are some of their methods:
 
-*	Use existing staff, hardware and software:
+*	Use existing staff, hardware and software
   * Gives significant internal control
   * Relies on current staff skills
   * Requires reprioritizing staff time and projects
-* Contract with a small business reseller to buy, build and/or host a custom site:
+* Contract with a small business reseller to buy, build and/or host a custom site
   * Uses vendors listed on the Department of General Services’ California Multiple Award Schedule (CMAS)
   * Prices for services and vendors are the same as on the federal General Services Administration list
   * Typically purchasing (or subscribing to) a ready-made solution with customization options. One way to do this is through the state’s [Software Licensing Program](http://www.dgs.ca.gov/pd/Programs/Leveraged/SLP.aspx). The Program allows Agencies to purchase software through existing contracts that have already been negotiated with authorized participating resellers.
