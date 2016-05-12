@@ -41,6 +41,6 @@ CA Employment Development Department | [http://www.labormarketinfo.edd.ca.gov/](
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/index">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/02-Case-Study-1">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/index.md">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/02-Case-Study-1.md">Next &raquo;</a>
 </div>
