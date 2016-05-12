@@ -10,6 +10,7 @@ No existing state law specifically defines “open data,” however, current Cal
 > (b) Platform independent and machine readable.
 > (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.
 > (d) Retains the data definitions and structure present when the data was compiled, if applicable.
+
 A number of existing policies and laws that were written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See XX privacy section for more information. In addition, agencies and departments will need to consider how they build-out the technology for their open data projects.  
 ### Procurement 
 From building a platform in-house to contracting with a vendor, California agencies and departments have used a variety of procurement strategies. Below are some of their methods:
