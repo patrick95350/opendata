@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acknowledgements
+nav_title: Acknowledgements
 ---
 
 
