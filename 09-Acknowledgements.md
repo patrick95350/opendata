@@ -2,6 +2,7 @@
 layout: page
 title: Acknowledgements
 nav_title: Acknowledgements
+nav_level: 1
 ---
 
 
