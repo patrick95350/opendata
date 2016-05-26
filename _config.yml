@@ -4,8 +4,8 @@
 permalink:           none
 
 # Setup
-title:               California Open Data Reference Book
-tagline:             'Tagline'
+title:               Making Open Data Work in California's State Government
+tagline:             'Lessons from Early Adopters'
 description:         'Description'
 url:                 http://library.ca.gov/crb/opendatarefbook
 baseurl:             'http://patrick95350.github.io/opendata'
