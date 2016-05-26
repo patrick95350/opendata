@@ -190,6 +190,10 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
+.sidebar-nav-item.sidebar-nav-level-2 {
+  padding-left: 2rem;
+}
+
 @media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
