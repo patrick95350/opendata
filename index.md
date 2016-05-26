@@ -10,6 +10,10 @@ The purpose of this reference book is to lay out a path for California agencies 
 This work is intended to act as a resource, reviewing the key issues surrounding the release of open data, such as guidance on establishing a governance team, a brief overview of key regulations and policies departments need to know, with special attention to balancing privacy and confidentiaity with the need for openness and transparency.
 
 [Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-Sites)
+&nbsp;[California Health and Human Services Agency - Creating a Culture of Open Data]({{ site.baseurl }}/02-CHSS-Case-Study)
+[Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-Sites)
+[Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-Sites)
+[Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-Sites)
 
 ### Open Data Definition
 
