@@ -9,6 +9,8 @@ The purpose of this reference book is to lay out a path for California agencies 
 
 This work is intended to act as a resource, reviewing the key issues surrounding the release of open data, such as guidance on establishing a governance team, a brief overview of key regulations and policies departments need to know, with special attention to balancing privacy and confidentiaity with the need for openness and transparency.
 
+[{{ site.baseurl }}/01-Open-Data-Sites](Part I. Open Data in California)
+
 ### Open Data Definition
 
 When trying to define open data, it helps to think about government data as existing on a spectrum. The simple act of publishing data can help inform the public about the conduct of public business. For this goal, it’s is only needed to publish the data alongside necessary narrative to provide context so the public can understand what the data says. It is not necessary, however, to include the level of detail or additional information for the public to use the data for further purpose. For this reason, we refer to examples on this end of the spectrum as transparency data.
