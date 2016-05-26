@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Open Data in California
-nav_title: Open Data in Calfirnia
-nav_level: 2
+nav_title: Part I. Open Data in Calfirnia
+nav_level: 1
 ---
 
 ### Open Data Definition
