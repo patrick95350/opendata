@@ -5,8 +5,6 @@ nav_title: Open Data Sites
 nav_level: 2
 ---
 
-title: California Health and Human Services Agency - Creating a Culture of Open Data
-
 ### Our Cases
 
 *Organization* | *Portal* | *Launched*
