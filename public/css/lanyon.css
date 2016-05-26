@@ -191,7 +191,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-nav-item.sidebar-nav-level-2 {
-  padding-left: 2.5rem;
+  padding-left: 2.25rem;
 }
 
 @media (min-width: 48em) {
