@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Data in California
-nav_title: Part I. Open Data in Calfornia
+nav_title: Part I. Open Data in California
 nav_level: 1
 ---
 
