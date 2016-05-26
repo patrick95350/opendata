@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Understanding Privacy and Confidentiality in the Context of Open Data
+nav_title: Privacy and Confidentiality
 ---
 
 As agencies evaluate their data assets for inclusion in open data projects, they must separate confidential data from data that can be shared. When they tackled this problem, the California Health and Human Services Agency adapted from a three-tiered taxonomy used by [New York State](http://ny.github.io/open-data-handbook/). Under this system data falls into three broad classes: (I) data that qualifies as public in its current form; (II) data that could be made public, but would first need to be altered to protect privacy; and (III) data that is sensitive and confidential, and must remain so. Although agencies will spend most of their time with respect to privacy on data falling into tier II, categorizing data assets into all three tiers requires balancing between two core values: transparency and privacy. Doing so requires knowledge of the legal and policy requirements regarding privacy and confidentiality, as well as the current science of disclosure limitation.
