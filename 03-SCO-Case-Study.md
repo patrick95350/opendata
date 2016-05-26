@@ -1,6 +1,7 @@
 ---
 layout: page
 title: State Controller's Office - Transparency and Accountability
+nav_title: State Controller's Office
 ---
 
 ### Introduction
