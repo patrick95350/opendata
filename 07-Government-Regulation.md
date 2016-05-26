@@ -2,6 +2,7 @@
 layout: page
 title: Government Regulations
 nav_title: Government Regulations
+nav_level: 2
 ---
 
 No existing state law specifically defines “open data,” however, current California law does provide one reference to it in Government Code § 6253.10 (2016), which defines the published data local agencies can call “open.” The law specifies that open data must be published, among other things, in a manner that is platform independent and machine readable:
