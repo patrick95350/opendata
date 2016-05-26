@@ -2,6 +2,7 @@
 layout: page
 title: Governance
 nav_title: Governance
+nav_level: 2
 ---
 
 When embarking on an open data project for the first time, agencies and departments often look to already successful efforts as planning guides. There is no “one size fits all” governance body because organization size and structure shape open data governance. For instance, California’s Health and Human Services Agency is a multi-tier agency that created an agency-level executive governance team and also created department-level teams. While the agency team identified legal considerations and data to collect as well as established policy, standards and order of release, the department teams identified, collected, cleaned and otherwise prepared their data and documentation for agency approval. Later, the agency tasked the Office of Statewide Health Planning and Development with helping new departments release their data. Smaller agencies, such as the State Controller’s Office, often have a flatter structure and simplify governance into a single team responsible for open data planning and implementation. 
