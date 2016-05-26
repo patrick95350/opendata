@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lesons Learned
+nav_title: Lessons Learned
 ---
 
 Many departments across state government already publish data. However, truly “open” data is different, both in how it is published and in the expectations that the public places on it. To understand these differences, agencies beginning open data projects can benefit by learning from the experiences of the agencies and departments that have gone before. Drawing on the experiences of two such early adopters – the California Health and Human Services Agency and the State Controller’s Office – provides a few key lessons:
