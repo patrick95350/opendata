@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Data Sites
-nav_title: &nbsp;&nbsp;&nbsp;Open Data Sites
+nav_title: Open Data Sites
 nav_level: subsection
 ---
 
