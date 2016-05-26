@@ -2,6 +2,7 @@
 layout: page
 title: Open Data Sites
 nav_title: &nbsp;&nbsp;&nbsp;Open Data Sites
+nav_level: subsection
 ---
 
 title: California Health and Human Services Agency - Creating a Culture of Open Data
