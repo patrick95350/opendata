@@ -7,8 +7,6 @@ nav_level: 1
 
 ### Open Data Definition
 
-When trying to define open data, it helps to think about government data as existing on a spectrum. The simple act of publishing data can help inform the public about the conduct of public business. For this goal, it’s is only needed to publish the data alongside necessary narrative to provide context so the public can understand what the data says. It is not necessary, however, to include the level of detail or additional information for the public to use the data for further purpose. For this reason, we refer to examples on this end of the spectrum as transparency data.
-
 Open data requires more than just transparency. The general consensus is that—at minimum—open data must be published without constraints to further public use. To achieve this, the data should be:
 
 *	Machine readable,
