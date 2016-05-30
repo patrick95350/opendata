@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Government Regulations
-nav_title: Government Regulations
+title: State Policies 
+nav_title: State Policies on Open Data
 nav_level: 2
 ---
 
