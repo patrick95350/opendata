@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lessons From Early Adopters
-nav_title: Lessons From Early Adopters
+title: Shared Lessons
+nav_title: Shared Lessons
 nav_level: 2
 ---
 
