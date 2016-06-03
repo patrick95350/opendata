@@ -1,3 +1,9 @@
+---
+layout: page
+title: Open Data Sites
+nav_title: Open Data Sites
+nav_level: 2
+---
 
 ### Our Cases
 
@@ -27,3 +33,9 @@ CA Employment Development Department | [http://www.labormarketinfo.edd.ca.gov/](
 
 ### Coming Soon
 ???
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/index">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/02-CHSS-Case-Study">Next &raquo;</a>
+</div>
