@@ -2,7 +2,7 @@
 layout: page
 title: Open Data Sites
 nav_title: Open Data Sites
-nav_level: 2
+nav_level: 1
 ---
 
 ### Our Cases
