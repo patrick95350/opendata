@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Purpose
-nav_title: Home
+title: Introduction
+nav_title: Introduction
 nav_level: 1
 ---
 
