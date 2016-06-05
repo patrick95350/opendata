@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lesons Learned
-nav_title: Lessons Learned
+title: Shared Lessons from the Case Studies
+nav_title: Shared Lessons
 nav_level: 2
 ---
 

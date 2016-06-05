@@ -6,7 +6,7 @@ permalink:           none
 # Setup
 title:               Making Open Data Work in California's State Government
 tagline:             'Lessons from Early Adopters'
-description:         'Description'
+description:         'Prepared for the California State Library<br /> by the California Research Bureau.'
 url:                 http://library.ca.gov/crb/opendatarefbook
 baseurl:             'http://patrick95350.github.io/opendata'
 paginate:            5

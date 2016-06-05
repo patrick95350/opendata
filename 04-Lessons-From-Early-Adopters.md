@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Opening Agency Data - What You Need to Know
-nav_title: Part II. Opening Agency Data
+title: Lessons from Early Adopters
+nav_title: Part II. Lessons from Early Adopters
 nav_level: 1
 ---
 
