@@ -6,7 +6,7 @@ nav_level: 1
 ---
 
 ## In This Section
-* [Shared Lessons]({{ site.baseurl }}/04-Shared-Lessons)
+* [Shared Lessons]({{ site.baseurl }}/05-Shared-Lessons)
 * [Governance]({{ site.baseurl }}/06-Governance)
 * [Government Regulations]({{ site.baseurl }}/07-Government-Regulation)
 * [Privacy and Confidentiality]({{ site.baseurl }}/08-Privacy)
