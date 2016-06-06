@@ -542,14 +542,14 @@ a.pagination-item:hover {
 }
 
 /* CA State Library Color */
-.theme-base-chdp .sidebar,
-.theme-base-chdp .sidebar-toggle:active,
-.theme-base-chdp #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-base-csl .sidebar,
+.theme-base-csl .sidebar-toggle:active,
+.theme-base-csl #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #00466A;
 }
-.theme-base-chdp .container a,
-.theme-base-chdp .sidebar-toggle,
-.theme-base-chdp .related-posts li a:hover {
+.theme-base-csl .container a,
+.theme-base-csl .sidebar-toggle,
+.theme-base-csl .related-posts li a:hover {
   color:  #00466A;
 }
 
