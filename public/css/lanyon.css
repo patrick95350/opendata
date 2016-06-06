@@ -541,7 +541,7 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* CA State Library Color  */
+/* CA State Library Color */
 .theme-base-chdp .sidebar,
 .theme-base-chdp .sidebar-toggle:active,
 .theme-base-chdp #sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -550,7 +550,7 @@ a.pagination-item:hover {
 .theme-base-chdp .container a,
 .theme-base-chdp .sidebar-toggle,
 .theme-base-chdp .related-posts li a:hover {
-  color: #009688;
+  color:  #00466A;
 }
 
 
