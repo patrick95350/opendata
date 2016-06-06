@@ -1,7 +1,7 @@
-# CA Open Data Reference Book
-### A reference book from research and interviews with agencies already particpating in open data projects
+# Making Open Data Work in State Government: Lessons from Early Adopters
+### A publication that includes research and interviews with state agencies already particpating in open data projects
 
-Short Description Here
+
 
 
 ## License
