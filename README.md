@@ -6,6 +6,6 @@
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).This report is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/).
+This report is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/).
 
 <3
