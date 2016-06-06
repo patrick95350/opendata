@@ -1,11 +1,12 @@
-# CA Open Data Reference Book
-### A reference book from research and interviews with agencies already particpating in open data projects
+# Making Open Data Work in State Government: Lessons from Early Adopters (June 2016)
+### A publication that includes research and interviews with state agencies already particpating in open data projects.
+Contact the California Research Bureau at the California State Library for questions or comments (crb@library.ca.gov)
 
-Short Description Here
+
 
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+This report is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/).
 
 <3

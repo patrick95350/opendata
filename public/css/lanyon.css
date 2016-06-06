@@ -541,16 +541,16 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* CA Health Data Project Color */
-.theme-base-chdp .sidebar,
-.theme-base-chdp .sidebar-toggle:active,
-.theme-base-chdp #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #009688;
+/* CA State Library Color */
+.theme-base-csl .sidebar,
+.theme-base-csl .sidebar-toggle:active,
+.theme-base-csl #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #00466A;
 }
-.theme-base-chdp .container a,
-.theme-base-chdp .sidebar-toggle,
-.theme-base-chdp .related-posts li a:hover {
-  color: #009688;
+.theme-base-csl .container a,
+.theme-base-csl .sidebar-toggle,
+.theme-base-csl .related-posts li a:hover {
+  color:  #00466A;
 }
 
 
