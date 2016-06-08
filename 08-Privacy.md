@@ -61,7 +61,7 @@ When releasing data to the public, many agencies decide to apply formal terms of
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/07-Government-Regulations">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/07-State-Policies-Open-Data">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/09-Open-Data-Sites">Next &raquo;</a>
 </div>
 
