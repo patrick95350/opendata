@@ -16,7 +16,7 @@ State Controller's Office |
 * Track Prop 30 | [http://trackprop30.ca.gov](http://trackprop30.ca.gov) | ??
 
 ### State of California Open Data Sites  
-Visit [http://opendata.ca.gov/SODP/index.html] (http://opendata.ca.gov/SODP/index.html) for a current list of State of California open data projects. 
+Visit [http://opendata.ca.gov/SODP/index.html](http://opendata.ca.gov/SODP/index.html) for a current list of State of California open data projects. 
 
 
 ### More Information
