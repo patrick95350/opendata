@@ -116,6 +116,6 @@ Internally, the project has helped lead to a culture of data sharing and interop
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/01-Open-Data-Sites">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/01-Open-Data-in-CA">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/03-SCO-Case-Study">Next &raquo;</a>
 </div>
