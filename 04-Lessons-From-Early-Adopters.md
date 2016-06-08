@@ -8,7 +8,7 @@ nav_level: 1
 ## In This Section
 * [Shared Lessons]({{ site.baseurl }}/05-Shared-Lessons)
 * [Governance]({{ site.baseurl }}/06-Governance)
-* [Government Regulations]({{ site.baseurl }}/07-Government-Regulation)
+* [State Policies on Open Data]({{ site.baseurl }}/07-State-Policies-Open-Data)
 * [Privacy and Confidentiality]({{ site.baseurl }}/08-Privacy)
 
 <!-- Pagination -->
