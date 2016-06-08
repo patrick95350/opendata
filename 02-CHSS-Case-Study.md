@@ -5,6 +5,12 @@ nav_title: California Health and Human Services
 nav_level: 2
 ---
 
+## In This Section
+* [Introduction](#Introduction)
+* [Project Summary](#Project-Summary)
+* [How Did They Do It?](#How-Did-They-Do-It?)
+* [Privacy and Confidentiality]({{ site.baseurl }}/08-Privacy)
+
 ### Introduction
 
 The California Health and Human Services Agency (CHHS) oversees 12 departments and three offices, employs nearly 34,000 staff and administers a budget of $140 billion. In 2014, when the Agency embarked on a unified process to publicly release its non-confidential data, it had a complex task before it. Successfully launching a portal for its public data required executive leadership, a shared vision across diverse programs, commitment by personnel and public-private partnerships. Almost two years later, the project has succeeded, allowing health advocates, civic technologists, journalists and anyone else to access and use data more easily than ever before.  As a result of its success, CHHS plans to continue the open data program as part of a larger effort to better use information and data inside and outside of government. 
@@ -59,7 +65,7 @@ Once a department published data, public information officers heard from members
 
 Additionally, working with the California HealthCare Foundation and other partners, the Agency now conducts a yearly “Open Data Fest”. This convening of stakeholders, practitioners, thought-leaders, and government staff serves to further the dialogue about the value and benefit to open data publishing. The event is more strategic rather than nuts-and-bolts, providing important space for interdisciplinary, public-private-nonprofit collaboration around the future of health data and open engagement.
 
-### How did they do it? 
+### How Did They Do It? 
 
 During the last two years, the California Health and Human Services Agency has reimagined how it makes data publicly available. Accomplishing this task required executive support, strong governance, and – of coursestaff time. Fortunately, they were able to take advantage of a well-timed outside grant, an emerging governance structure, and a strong level of trust across departments, which allowed them to overcome any obstacles in their path.
 
