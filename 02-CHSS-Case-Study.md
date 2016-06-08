@@ -30,9 +30,9 @@ This story begins inside and outside of government. Inside the California Health
 
 <ul>
 
-  *	dCHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other. 
+*	dCHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other.
 
-  *	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program.
+*	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program.
 
 </ul>
 
