@@ -6,6 +6,7 @@ nav_level: 2
 ---
 
 ####  
+
 * [Introduction](#introduction)
 * [Project Summary](#project-summary)
 * [How Did They Do It?](#how-did-they-do-it)
