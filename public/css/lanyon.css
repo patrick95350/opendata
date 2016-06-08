@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #F69922;
+  color: #00446a;
   letter-spacing: 0;
 }
 
@@ -553,7 +553,7 @@ a.pagination-item:hover {
 
 /* Make masthead link different than body */
 .theme-base-csl .container .masthead-title a {
-  color: #00446a;
+  color: #F69922;
 }
 
 
