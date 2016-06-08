@@ -5,7 +5,8 @@ nav_title: California Health and Human Services
 nav_level: 2
 ---
 
-In this Section
+
+
 
 * [Introduction](#introduction)
 * [Project Summary](#project-summary)
@@ -13,7 +14,7 @@ In this Section
 * [Challenges](#challenges)
 * [Initial Impact](#initial-impact)
 
-### Introductions
+### Introduction
 
 The California Health and Human Services Agency (CHHS) oversees 12 departments and three offices, employs nearly 34,000 staff and administers a budget of $140 billion. In 2014, when the Agency embarked on a unified process to publicly release its non-confidential data, it had a complex task before it. Successfully launching a portal for its public data required executive leadership, a shared vision across diverse programs, commitment by personnel and public-private partnerships. Almost two years later, the project has succeeded, allowing health advocates, civic technologists, journalists and anyone else to access and use data more easily than ever before.  As a result of its success, CHHS plans to continue the open data program as part of a larger effort to better use information and data inside and outside of government. 
 
