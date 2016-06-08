@@ -8,7 +8,7 @@ nav_level: 2
 ## In This Section
 * [Introduction](#introduction)
 * [Project Summary](#project-summary)
-* [How Did They Do It?](#how-hid-they-do-it?)
+* [How Did They Do It?](#how-did-they-do-it?)
 * [Challenges](#challenges)
 * [Initial Impact](#initial-impact)
 
