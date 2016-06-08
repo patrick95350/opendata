@@ -37,6 +37,9 @@ This story begins inside and outside of government. Inside the California Health
 
 </ul></ul>
 
+
+
+
 Outside of government, one foundation played critical roles in bringing this project to fruition: 
 
 *	At the end of 2011, the California Health Care Foundation began a “Free the Data” initiative. As part of that initiative, they sought a partnership with a state agency that would result in greater public engagement with government data. Today, many Agencies publish data in charts that are embedded into reports, or sometimes as downloadable files. In the latter case, either the format or limited descriptions of the data often prevent researchers and community members from analyzing and using the information independently. In contrast, the Free the Data Initiative advocated for “open” data – meaning it has no restrictions on use – is machine-readable and is accessible via an API (Application Programming Interface), a way of publishing data that allows programmers to connect their websites to the data, making updates automatic and use easier.  
