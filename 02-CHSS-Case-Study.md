@@ -33,7 +33,7 @@ This story begins inside and outside of government. Inside the California Health
 
 <li>	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program.
 
-</ul>
+</ul></ul>
 
 Outside of government, one foundation played critical roles in bringing this project to fruition: 
 
