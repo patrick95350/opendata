@@ -6,9 +6,9 @@ nav_level: 2
 ---
 
 ## In This Section
-* [Introduction](#Introduction)
-* [Project Summary](#Project-Summary)
-* [How Did They Do It?](#How-Did-They-Do-It?)
+* [Introduction](#introduction)
+* [Project Summary](#project-summary)
+* [How Did They Do It?](#how-hid-hhey-do-it?)
 * [Privacy and Confidentiality]({{ site.baseurl }}/08-Privacy)
 
 ### Introduction
