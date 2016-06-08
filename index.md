@@ -24,5 +24,5 @@ In California, a number of state agencies are beginning to implement open data p
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older">&nbsp;</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Open-Data-Sites">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Open-Data-in-CA">Next &raquo;</a>
 </div>
