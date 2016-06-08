@@ -16,7 +16,7 @@ In California, a number of state agencies are beginning to implement open data p
 * [Part II. Lessons from Early Adopters]({{ site.baseurl }}//04-Lessons-From-Early-Adopters)
   * [Shared Lessons] ({{ site.baseurl }}/05-Shared-Lessons)
   * [Governance]({{ site.baseurl }}/06-Governance)
-  * [Government Regulations]({{ site.baseurl }}//07-Government-Regulation)
+  * [State Policies on Open Data]({{ site.baseurl }}//07-Government-Regulation)
   * [Understanding Privacy and Confidentiality in the Context of Open Data]({{ site.baseurl }}/08-Privacy)
 * [Acknowledgements]({{ site.baseurl }}/09-Acknowledgements)
 
