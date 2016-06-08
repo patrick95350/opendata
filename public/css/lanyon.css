@@ -47,7 +47,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: #00446a;
   letter-spacing: -.025rem;
 }
 
@@ -320,7 +320,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #00446a;
 }
 .page-title,
 .post-title {
