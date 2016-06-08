@@ -5,7 +5,7 @@ nav_title: California Health and Human Services
 nav_level: 2
 ---
 
-##### In This Section
+
 * [Introduction](#introduction)
 * [Project Summary](#project-summary)
 * [How Did They Do It?](#how-did-they-do-it)
