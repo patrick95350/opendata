@@ -28,7 +28,7 @@ This story begins inside and outside of government. Inside the California Health
 
 *	Process: In 2010 CHHS received a federal Health Information Exchange grant as part of the American Recovery and Reinvestment Act. While the grant mainly focused on data sharing among health care providers, it also allowed the Agency to focus on internal data sharing to improve services its departments provide to the public.  Their success in creating a health information exchange plan supported a second award in 2012 that CHHS used to examine opportunities for health and human services data sharing and interoperability. This new grant resulted in two outcomes: <ul>
 
-  *	CHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other. 
+  *	dCHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other. 
 
   *	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program. </ul>
 
