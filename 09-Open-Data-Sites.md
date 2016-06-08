@@ -24,6 +24,6 @@ For more information about the State of California's Open Data efforts, visit [h
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/index">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/09-Privacy">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/10-Acknowledgements">Next &raquo;</a>
 </div>
