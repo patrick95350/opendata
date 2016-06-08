@@ -5,15 +5,16 @@ nav_title: Introduction
 nav_level: 1
 ---
 
-The purpose of this reference book is to lay out a path for California agencies and departments that want to begin publishing their data in a more open and accessible format. By sharing the experiences and lessons learned from the efforts of two early-adopters—the State Controllers Office and The California Health and Human Services Agency—others will have a better idea of how to achieve their own goals and priorities for their open data projects.
+Governments around the world are making data more accessible and more useable. By doing so, they are helping to make government more open, transparent and accountable. With open data, community members, local organizations, businesses and journalists can leverage public information to support new businesses, inform public policy, make fact-based decisions, and encourage greater civic engagement.
 
-This work is intended to act as a resource, reviewing the key issues surrounding the release of open data, such as guidance on establishing a governance team, a brief overview of key regulations and policies departments need to know, with special attention to balancing privacy and confidentiaity with the need for openness and transparency.
+In California, a number of state agencies are beginning to implement open data programs. Releasing data isn’t a matter of just flipping a switch, however. These organizations need to plan for privacy, data quality governance structures and a host of other factors. The California Health and Human Services Agency and the State Controller’s Office have completed large-scale open data projects that have considered these issues. This publication reports on their successes, challenges and outcomes. Using shared lessons from these projects and others, the paper also summarizes current state policy on open data, including procurement policies; highlights various privacy laws and guidelines; and provides sample organizational structures for open data teams. 
+
 
 * [Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-Sites)
   * [California Health and Human Services Agency - Creating a Culture of Open Data]({{ site.baseurl }}/02-CHSS-Case-Study)
   * [State Controller's Office - Transparency and Accountability]({{ site.baseurl }}//03-SCO-Case-Study)
-  * [Lessons Learned]({{ site.baseurl }}/04-Lessons-Learned)
-* [Part II. Opening Agency Data - What You Need to Know]({{ site.baseurl }}/05-What-You-Need-To-Know)
+* [Part II. Lessons from Early Adopters]({{ site.baseurl }}//04-Lessons-From-Early-Adopters)
+  * [Shared Lessons] ({{ site.baseurl }}/05-Shared-Lessons)
   * [Governance]({{ site.baseurl }}/06-Governance)
   * [Government Regulations]({{ site.baseurl }}//07-Government-Regulation)
   * [Understanding Privacy and Confidentiality in the Context of Open Data]({{ site.baseurl }}/08-Privacy)
