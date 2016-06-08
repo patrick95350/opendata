@@ -14,7 +14,7 @@ In California, a number of state agencies are beginning to implement open data p
   * [California Health and Human Services Agency - Creating a Culture of Open Data]({{ site.baseurl }}/02-CHSS-Case-Study)
   * [State Controller's Office - Transparency and Accountability]({{ site.baseurl }}//03-SCO-Case-Study)
 * [Part II. Lessons from Early Adopters]({{ site.baseurl }}//04-Lessons-From-Early-Adopters)
-  * [Shared Lessons] ({{ site.baseurl }}/05-Shared-Lessons)
+  * [Shared Lessons]({{ site.baseurl }}//05-Shared-Lessons)
   * [Governance]({{ site.baseurl }}/06-Governance)
   * [State Policies on Open Data]({{ site.baseurl }}//07-State-Policies-Open-Data)
   * [Understanding Privacy and Confidentiality in the Context of Open Data]({{ site.baseurl }}/08-Privacy)
