@@ -68,6 +68,6 @@ Staff at other agencies may also look to the staff that left the Controller’s 
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/02-CHSS-Case Study">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/02-CHSS-Case-Study">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/04-Lessons-From-Early-Adopters">Next &raquo;</a>
 </div>
