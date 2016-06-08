@@ -551,6 +551,11 @@ a.pagination-item:hover {
   color:  #F69922;
 }
 
+/* Make masthead link different than body */
+.theme-base-csl .container .masthead-title a {
+  color: #00446a;
+}
+
 
 /*
  * Overlay sidebar
@@ -576,7 +581,4 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-/* Make masthead link different than body */
-.masthead-title a {
-  color: #00446a;
-}
+
