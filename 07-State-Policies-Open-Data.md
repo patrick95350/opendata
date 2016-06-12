@@ -27,16 +27,14 @@ From building a platform in-house to contracting with a vendor, California agenc
 
 *	Use existing staff, hardware and software.
 
-*	Benefits: <ul><ul>
-<li>
+*	Benefits: 
   * Gives significant internal control,
   * Relies on current staff skills, 
   * Requires reprioritizing staff time and projects.
 
 * Contract with a small business reseller to buy, build and/or host a custom site. Agencies using this method typically purchase or subscribe to a ready-made solution with customization options.
 
-* Benefits: <ul><ul>
-<li>
+* Benefits:
   * Uses vendors listed on the Department of General Services’ California Multiple Award Schedule (CMAS), 
   * Prices for services and vendors are the same as on the federal General Services Administration list.
 
@@ -44,7 +42,7 @@ One way to contract using this method is through the state’s [Software Licensi
 
 *	Issue a competitive Request for Proposal (RFP):
 
-*	Benefits: <ul><ul>
+*	Benefits:<ul><ul>
 <li>
   * Access to largest number of potential vendors,
   * Time-intensive,
