@@ -27,7 +27,7 @@ From building a platform in-house to contracting with a vendor, California agenc
 
 *	**_Use existing staff, hardware and software_**.  
 *Benefits*:
-* Gives significant internal control,
+  * Gives significant internal control,
   * Relies on current staff skills, 
   * Requires reprioritizing staff time and projects.
 
