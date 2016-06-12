@@ -47,7 +47,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: #00446a;
   letter-spacing: -.025rem;
 }
 
@@ -104,13 +104,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   color: #505050;
 }
-.masthead-title a {
-  color: #505050;
-}
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #F69922;
+  color: #00446a;
   letter-spacing: 0;
 }
 
@@ -320,7 +318,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #00446a;
 }
 .page-title,
 .post-title {
@@ -550,7 +548,12 @@ a.pagination-item:hover {
 .theme-base-csl .container a,
 .theme-base-csl .sidebar-toggle,
 .theme-base-csl .related-posts li a:hover {
-  color:  #00446a;
+  color:  #F69922;
+}
+
+/* Make masthead link different than body */
+.theme-base-csl .container .masthead-title a {
+  color: #F69922;
 }
 
 
@@ -577,3 +580,5 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+

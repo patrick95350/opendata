@@ -5,6 +5,15 @@ nav_title: California Health and Human Services
 nav_level: 2
 ---
 
+
+
+
+* [Introduction](#introduction)
+* [Project Summary](#project-summary)
+* [How Did They Do It?](#how-did-they-do-it)
+* [Challenges](#challenges)
+* [Initial Impact](#initial-impact)
+
 ### Introduction
 
 The California Health and Human Services Agency (CHHS) oversees 12 departments and three offices, employs nearly 34,000 staff and administers a budget of $140 billion. In 2014, when the Agency embarked on a unified process to publicly release its non-confidential data, it had a complex task before it. Successfully launching a portal for its public data required executive leadership, a shared vision across diverse programs, commitment by personnel and public-private partnerships. Almost two years later, the project has succeeded, allowing health advocates, civic technologists, journalists and anyone else to access and use data more easily than ever before.  As a result of its success, CHHS plans to continue the open data program as part of a larger effort to better use information and data inside and outside of government. 
@@ -17,11 +26,19 @@ This story begins inside and outside of government. Inside the California Health
 
 *	People: Two CHHS departments, the California Department of Public Health and the Office of Statewide Health Planning and Development, are data-rich organizations that already published data in a number of different formats. Key staff in those and other departments along with the Agency’s Chief Information Officer had an interest in data sharing across departments and making data more available and transparent.  
 
-*	Process: In 2010 CHHS received a federal Health Information Exchange grant as part of the American Recovery and Reinvestment Act. While the grant mainly focused on data sharing among health care providers, it also allowed the Agency to focus on internal data sharing to improve services its departments provide to the public.  Their success in creating a health information exchange plan supported a second award in 2012 that CHHS used to examine opportunities for health and human services data sharing and interoperability. This new grant resulted in two outcomes: 
+*	Process: In 2010 CHHS received a federal Health Information Exchange grant as part of the American Recovery and Reinvestment Act. While the grant mainly focused on data sharing among health care providers, it also allowed the Agency to focus on internal data sharing to improve services its departments provide to the public.  Their success in creating a health information exchange plan supported a second award in 2012 that CHHS used to examine opportunities for health and human services data sharing and interoperability. This new grant resulted in two outcomes:
 
-  *	CHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other. 
+<ul><ul>
+<li>	CHHS began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other.</li><br />
 
-  *	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program. 
+
+
+<li>	CHHS identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program.</li>
+
+</ul></ul>
+
+
+
 
 Outside of government, one foundation played critical roles in bringing this project to fruition: 
 
@@ -59,7 +76,7 @@ Once a department published data, public information officers heard from members
 
 Additionally, working with the California HealthCare Foundation and other partners, the Agency now conducts a yearly “Open Data Fest”. This convening of stakeholders, practitioners, thought-leaders, and government staff serves to further the dialogue about the value and benefit to open data publishing. The event is more strategic rather than nuts-and-bolts, providing important space for interdisciplinary, public-private-nonprofit collaboration around the future of health data and open engagement.
 
-### How did they do it? 
+### How Did They Do It? 
 
 During the last two years, the California Health and Human Services Agency has reimagined how it makes data publicly available. Accomplishing this task required executive support, strong governance, and – of coursestaff time. Fortunately, they were able to take advantage of a well-timed outside grant, an emerging governance structure, and a strong level of trust across departments, which allowed them to overcome any obstacles in their path.
 
@@ -107,6 +124,6 @@ Internally, the project has helped lead to a culture of data sharing and interop
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/01-Open-Data-Sites">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/01-Open-Data-in-CA">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/03-SCO-Case-Study">Next &raquo;</a>
 </div>

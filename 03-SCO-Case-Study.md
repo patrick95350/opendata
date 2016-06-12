@@ -5,6 +5,13 @@ nav_title: State Controller's Office
 nav_level: 2
 ---
 
+
+
+* [Introduction](#introduction)
+* [Project Summary](#project-summary)
+* [Meeting Challenges](#meeting-challenges)
+* [Institutionalizing Open Data across Administrations](#institutionalizing-open-data-across-administrations)
+
 ### Introduction
 
 In 2010, LA Times investigative reporters [revealed](http://www.latimes.com/local/la-me-bell-salary-20100715-story.html) that city officials in Bell, California were paying themselves exorbitant salaries compared to other cities. The “Bell Scandal,” as it came to be known, raised immediate questions about whether that city was unique or whether the public just did not know about corruption taking place in other cities. The State Controller’s Office, which maintains fiscal control over $100 billion in receipts and disbursements of public funds a year, believed it could help answer that question by providing more transparency.  
@@ -61,6 +68,6 @@ Staff at other agencies may also look to the staff that left the Controller’s 
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/02-CHSS-Case Study">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/04-Lessons-Learned">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/02-CHSS-Case-Study">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/04-Lessons-From-Early-Adopters">Next &raquo;</a>
 </div>
