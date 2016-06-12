@@ -26,8 +26,7 @@ A number of existing policies and laws written for general publication of data b
 From building a platform in-house to contracting with a vendor, California agencies and departments have used a variety of procurement strategies. Below are the three most common methods:
 
 *	**_Use existing staff, hardware and software_**.  
-*Benefits*:
-  * Gives significant internal control,
+*Benefits*:* Gives significant internal control,
   * Relies on current staff skills, 
   * Requires reprioritizing staff time and projects.
 
