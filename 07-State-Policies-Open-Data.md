@@ -42,8 +42,7 @@ One way to contract using this method is through the state’s [Software Licensi
 
 *	Issue a competitive Request for Proposal (RFP):
 
-*	Benefits:<ul><ul>
-<li>
+*	Benefits:
   * Access to largest number of potential vendors,
   * Time-intensive,
   * Allows flexibility in how many or how few specifications.
