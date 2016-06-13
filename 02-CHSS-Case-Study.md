@@ -5,9 +5,6 @@ nav_title: California Health and Human Services
 nav_level: 2
 ---
 
-
-
-
 * [Introduction](#introduction)
 * [Project Summary](#project-summary)
 * [How Did They Do It?](#how-did-they-do-it)
@@ -31,14 +28,9 @@ This story begins inside and outside of government. Inside the California Health
 <ul><ul>
 <li>	The Agency began the process of identifying data internally, where it was housed and in what formats. This created new opportunities for departments to share data with each other.</li><br />
 
-
-
 <li>	The Agency identified a governance structure for data, composed of a cross-department committee, which focused on leveraging data to better support the Agency’s mission. This governance structure would prove to be a critical element in the success of the open data program.</li>
 
 </ul></ul>
-
-
-
 
 Outside of government, one foundation played critical roles in bringing this project to fruition: 
 
