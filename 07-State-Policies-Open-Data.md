@@ -50,6 +50,8 @@ One way to contract using this method is through the state’s [Software Licensi
   * Time-intensive,
   * Allows flexibility in how many or how few specifications.
 
+### Working with Civic Tech Groups
+
 Open data creates the opportunity to build relationships with innovators outside of government. For example, multiple companies across the country take road and traffic data made available by local and state governments and create new applications to make the data more useful to the public.  In some instances, developers create these new applications during hackathons, intensive events spread out over a few days or weeks where coders and designers develop a single project leveraging publicly available data. If a state agency finds that a tool created during a hackathon might be something they want to build on, they need to determine what options they have for doing this. In many cases, the relationship has remained voluntary – a community group like a local Code for America brigade – continues to iterate the initial application after the hackathon ends. However, few alternatives exist currently to create a more formal relationship in which the agency might contract with the hackathon participants to fully-develop the application into a tool the agency can use.
 
 <!-- Pagination -->
