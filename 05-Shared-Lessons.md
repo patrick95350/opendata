@@ -15,9 +15,9 @@ Many departments across state government already publish data. However, truly â€
 
 *	An inclusive governance team can develop comprehensive policies
 
-*	Start small â€“ begin by publishing a few datasets from a team that is knowledgeable and enthusiastic about data 
+*	Start from a strategic strong point 
 
-*	Create a safe space for learning, training and asking questions
+*	Create opportunities for learning, training and asking questions
 
 *	Use events to build momentum
 
