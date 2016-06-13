@@ -1,3 +1,7 @@
 html {
   font-size: 12px;
 }
+
+.container {
+  max-width: 44rem;
+}
