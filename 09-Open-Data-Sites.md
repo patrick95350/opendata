@@ -11,12 +11,9 @@ nav_level: 1
 ---|---|---
 California Health and Human Services | [https://chhs.data.ca.gov](https://chhs.data.ca.gov) | 8/2014
 State Controller's Office | 
-
-* Public Pay | [http://www.publicpay.ca.gov](http://www.publicpay.ca.gov) | 10/2010
-
-* Track Prop 30 | [http://trackprop30.ca.gov](http://trackprop30.ca.gov) | 4/2014
-
-* By the Numbers | [https://bythenumbers.sco.ca.gov](https://bythenumbers.sco.ca.gov) | 9/2014
+<li> Public Pay</li> | [http://www.publicpay.ca.gov](http://www.publicpay.ca.gov) | 10/2010
+<li> Track Prop 30</li> | [http://trackprop30.ca.gov](http://trackprop30.ca.gov) | 4/2014
+<li> By the Numbers</li> | [https://bythenumbers.sco.ca.gov](https://bythenumbers.sco.ca.gov) | 9/2014
 
 ### State of California Open Data Sites  
 Visit [http://opendata.ca.gov/SODP/index.html](http://opendata.ca.gov/SODP/index.html) for a current list of State of California open data projects. 
