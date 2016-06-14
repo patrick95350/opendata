@@ -18,7 +18,7 @@ No existing state law specifically defines “open data,” however, current Cal
 > (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.  
 > (d) Retains the data definitions and structure present when the data was compiled, if applicable.  
 
-A number of existing policies and laws written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See [privacy section]({{ site.baseurl }}/08-Privacy) for more information. In addition, agencies and departments will need to consider how they build the technology for their open data projects.  
+A number of existing policies and laws written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See the [privacy section]({{ site.baseurl }}/08-Privacy) of this publication for more information. In addition, agencies and departments will need to consider how they build the technology for their open data projects.  
 
 ### Procurement 
 
