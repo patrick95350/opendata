@@ -5,19 +5,18 @@ nav_title: State Policies on Open Data
 nav_level: 2
 ---
 
-No existing state law specifically defines “open data,” however, current California law does provide one reference to it in Government Code § 6253.10 (2016), which defines the published data local agencies can call “open.” The law specifies that open data must be published, among other things, in a manner that is platform independent and machine readable:
+### Existing Law
 
->Government Code § 6253.10.
+No existing state law specifically defines “open data,” however, current California law does provide one reference to it in Government Code § 6253.10 (2016), which defines the published data that _local_ agencies can call “open.” This law specifies that open data must be published, among other things, in a manner that is platform independent and machine readable:
+
+  >Government Code § 6253.10.
 
 >If a local agency, except a school district, maintains an Internet Resource, including, but not limited to, an Internet Web site, Internet Web page, or Internet Web portal, which the local agency describes or titles as "open data," and the local agency voluntarily posts a public record on that Internet Resource, the local agency shall post the public record in an open format that meets all of the following requirements:
 
-> (a) Retrievable, downloadable, indexable, and electronically searchable by commonly used Internet search applications.
-
-> (b) Platform independent and machine readable.
-
-> (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.
-
-> (d) Retains the data definitions and structure present when the data was compiled, if applicable.
+> (a) Retrievable, downloadable, indexable, and electronically searchable by commonly used Internet search applications.  
+> (b) Platform independent and machine readable.  
+> (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.  
+> (d) Retains the data definitions and structure present when the data was compiled, if applicable.  
 
 A number of existing policies and laws written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See [privacy section]({{ site.baseurl }}/08-Privacy) for more information. In addition, agencies and departments will need to consider how they build the technology for their open data projects.  
 
@@ -52,7 +51,7 @@ One way to contract using this method is through the state’s [Software Licensi
 
 ### Working with Civic Tech Groups
 
-Open data creates the opportunity to build relationships with innovators outside of government. For example, multiple companies across the country take road and traffic data made available by local and state governments and create new applications to make the data more useful to the public.  In some instances, developers create these new applications during hackathons, intensive events spread out over a few days or weeks where coders and designers develop a single project leveraging publicly available data. If a state agency finds that a tool created during a hackathon might be something they want to build on, they need to determine what options they have for doing this. In many cases, the relationship has remained voluntary – a community group like a local Code for America brigade – continues to iterate the initial application after the hackathon ends. However, few alternatives exist currently to create a more formal relationship in which the agency might contract with the hackathon participants to fully-develop the application into a tool the agency can use.
+Open data creates the opportunity to build relationships with innovators outside of government. In some instances, developers create these new applications during hackathons, intensive events spread out over a few days or weeks where coders and designers develop a single project leveraging publicly available data. If a state agency finds that a tool created during a hackathon might be something they want to build on, they need to determine what options they have for doing this. In many cases, the relationship has remained voluntary – members of a community group like a local Code for America brigade – continue to iterate the initial application after the hackathon ends. A number of government agencies are developing streamlined ways to fully develop these applications and incorporate them internally. 
 
 <!-- Pagination -->
 <div class="pagination">
