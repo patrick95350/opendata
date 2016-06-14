@@ -4,7 +4,6 @@ title: Acknowledgements
 nav_title: Acknowledgements
 nav_level: 1
 ---
-### Acknowledgements
 
 We were fortunate enough to turn this project into reality when staff at the following organizations allowed us to interview them and tell their stories. We are grateful for both the time and insights they shared with us.
 
