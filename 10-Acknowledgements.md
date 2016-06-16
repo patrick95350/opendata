@@ -13,7 +13,7 @@ We thank Scott Christman, Mike Valle, Stuart Drown, Angelica Quirarte and Scott 
 
 ### Project Team
 
-The **California Research Bureau** authored this report as part of a **California State Library** project: Anne Neville, California Research Bureau Director; John Cornelison, Senior Research Librarian; Tonya Lindsey, Senior Researcher and Patrick Rogers, Senior Researcher.
+The **California Research Bureau** authored this report as part of a **California State Library** project: Anne Neville, California Research Bureau Director; John Cornelison, Senior Research Librarian; Tonya D. Lindsey, Senior Researcher and Patrick Rogers, Senior Researcher.
 
 ### Design
 
