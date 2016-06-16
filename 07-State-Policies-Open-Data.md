@@ -26,7 +26,7 @@ From building a platform in-house to contracting with a vendor, California agenc
 
 **_Use existing staff, hardware and software_**.   
 
-*Benefits*:
+*Features*:
 
   * Gives significant internal control,
   * Relies on current staff skills, 
@@ -34,7 +34,7 @@ From building a platform in-house to contracting with a vendor, California agenc
 
 **_Contract with a small business reseller to buy, build and/or host a custom site. Agencies using this method typically purchase or subscribe to a ready-made solution with customization options._**  
 
-*Benefits*:
+*Features*:
 
   * Uses vendors listed on the Department of General Services’ California Multiple Award Schedule (CMAS), 
   * Prices for services and vendors are the same as on the federal General Services Administration list.
@@ -43,7 +43,7 @@ One way to contract using this method is through the state’s [Software Licensi
 
 **_Issue a competitive Request for Proposal (RFP):_**  
 
-*Benefits*:
+*Features*:
 
   * Access to largest number of potential vendors,
   * Time-intensive,
@@ -51,7 +51,7 @@ One way to contract using this method is through the state’s [Software Licensi
 
 ### Working with Civic Tech Groups
 
-Open data creates the opportunity to build relationships with innovators outside of government. In some instances, developers create these new applications during hackathons, intensive events spread out over a few days or weeks where coders and designers develop a single project leveraging publicly available data. If a state agency finds that a tool created during a hackathon might be something they want to build on, they need to determine what options they have for doing this. In many cases, the relationship has remained voluntary – members of a community group like a local Code for America brigade – continue to iterate the initial application after the hackathon ends. A number of government agencies are developing streamlined ways to fully develop these applications and incorporate them internally. 
+Open data creates the opportunity to build relationships with innovators outside of government. For example, developers can create new applications during hackathons, intensive events spread out over a few days or weeks where coders and designers develop projects leveraging publicly available data. If a state agency finds that a tool created during a hackathon might be something they want to build on, they need to determine what options they have for doing this. In many cases, the relationship has remained voluntary – members of a community group like a local Code for America brigade – continue to iterate the initial application after the hackathon ends. A number of government agencies are developing streamlined ways to fully develop these applications and incorporate them internally. 
 
 <!-- Pagination -->
 <div class="pagination">
