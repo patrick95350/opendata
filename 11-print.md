@@ -11,18 +11,6 @@ Governments around the world are making data more accessible and more useable. B
 
 In California, a number of state agencies are beginning to implement open data programs. Releasing data isn’t as simple as just flipping a switch, however. These organizations need to plan for privacy, data quality governance structures and a host of other factors. The California Health and Human Services Agency and the State Controller’s Office have completed large-scale open data projects that have considered these issues. This publication reports on their successes, challenges and outcomes. Using shared lessons from these projects and others, the paper also summarizes current state policy on open data, including procurement policies; highlights various privacy laws and guidelines; and provides sample organizational structures for open data teams. 
 
-
-* [Part I. Open Data in California]({{ site.baseurl }}/01-Open-Data-in-CA)
-  * [California Health and Human Services Agency - Creating a Culture of Open Data]({{ site.baseurl }}/02-CHSS-Case-Study)
-  * [State Controller's Office - Transparency and Accountability]({{ site.baseurl }}//03-SCO-Case-Study)
-* [Part II. Lessons from Early Adopters]({{ site.baseurl }}//04-Lessons-From-Early-Adopters)
-  * [Shared Lessons]({{ site.baseurl }}//05-Shared-Lessons)
-  * [Governance]({{ site.baseurl }}/06-Governance)
-  * [State Policies on Open Data]({{ site.baseurl }}//07-State-Policies-Open-Data)
-  * [Understanding Privacy and Confidentiality in the Context of Open Data]({{ site.baseurl }}/08-Privacy)
-* [Open Data Sites]({{ site.baseurl }}/09-Open-Data-Sites)
-* [Acknowledgements]({{ site.baseurl }}/10-Acknowledgements)
-
 # Open Data in California
 
 ### Open Data Definition
@@ -43,12 +31,6 @@ Agencies can do more, however, to make their data as inclusive as possible. Open
 Open data does not have a one-size-fits-all definition. As agencies consider publishing open data, it is important to adopt a definition that meets their needs and those of their audiences.
 
 # California Health and Human Services Agency&#58; Creating a Culture of Open Data
-
-* [Introduction](#introduction)
-* [Project Summary](#project-summary)
-* [How Did They Do It?](#how-did-they-do-it)
-* [Challenges](#challenges)
-* [Initial Impact](#initial-impact)
 
 ### Introduction
 
@@ -286,7 +268,7 @@ No existing state law specifically defines “open data,” however, current Cal
 > (c) Available to the public free of charge and without any restriction that would impede the reuse or redistribution of the public record.  
 > (d) Retains the data definitions and structure present when the data was compiled, if applicable.  
 
-A number of existing policies and laws written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See the [privacy section]({{ site.baseurl }}/08-Privacy) of this publication for more information. In addition, agencies and departments will need to consider how they build the technology for their open data projects.  
+A number of existing policies and laws written for general publication of data by state agencies also apply to open data.  Data privacy, for example, is governed by the California Privacy Act, Information Practices Act and a host of Federal laws and regulations. See the [privacy section](#understanding-privacy-and-confidentiality-in-the-context-of-open-data) of this publication for more information. In addition, agencies and departments will need to consider how they build the technology for their open data projects.  
 
 ### Procurement 
 
